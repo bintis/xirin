@@ -38,7 +38,8 @@ Migrated to
 
 ~~[Forestry](https://app.forestry.io/)~~
 ※Abandoned,Since Forestry became tina.io,Site is no longer useful.
-
+Form 2023/10/28
+Migrated to github，Is is really easy inserting pic with GitHub editor.
 
 **Domain:**
 
@@ -52,18 +53,14 @@ In 2023 changed from bintis.cc into xirin.cc
 
 
 **Sync:**
-
 git command
 
-    git add --all
-    git commit -m "New Blog post"
-    git push -u origin main
 
 ![](/uploads/l9uj7c-8-6id-i26x-syq5n.gif)
 
 _Problem:_
 
-1\.Some how difficult dealing with picture local,However ,Edit in FORESTRY  feels more smoothly.
+1\.Some how difficult dealing with picture local,However ,Edit in ~~FORESTRY~~Github feels more smoothly.
 
 2\.When editing online, File must be have slash between words hence blank is not allowed.And Title of page must match file name.
 
