@@ -75,6 +75,8 @@ In the ikuai WAN settings:
 
 # Result and problem:
 As capture,Download speed has broke through 1G,
+<img width="299" alt="capture" src="https://github.com/bintis/xirin/assets/57840704/0357012c-26e0-4c88-9423-1bac12e6ebc0">
+
 
 But I have not figure out how to obtain IPV6,mabe that was IPOE or some other thing.
 
