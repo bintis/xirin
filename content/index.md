@@ -2,8 +2,9 @@
 alias: ["000", "Home"]
 ---
 # Xirin
-![[源文件.png]]
 
+
+![源文件](https://github.com/bintis/xirin/assets/57840704/5918cc66-35ba-49d1-bf18-b9236cb86f87)
 
 
 
