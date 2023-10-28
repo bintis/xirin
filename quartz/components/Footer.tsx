@@ -14,6 +14,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
+          Blog of Bintis © 2022
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
         <ul>
