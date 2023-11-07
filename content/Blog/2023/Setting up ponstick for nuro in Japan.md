@@ -1,7 +1,11 @@
-up:: [[index]]
-tags:: #output/blog  #network
-dates:: 2023-10-28
-
+---
+notetype: Blog
+title: Setting up ponstick for nuro in Japan
+date: 2023-10-28
+tags:
+  - output/blog
+  - Tech/Network
+---
 # Background
 
 My home internet is provided by Nuro Japan, boasting theoretical speeds of 2G for download and 1G for upload.
