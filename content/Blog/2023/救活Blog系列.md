@@ -1,9 +1,6 @@
----
-notetype: feed
-title: 救活Blog系列
-date: 2023-10-26
----
-#Blog
+up:: [[index]]
+tags:: #output/blog 
+dates:: 2023-10-26
 
 
   由于某种神秘原因，我很久没更新这个Blog，绝对不是因为懒（
