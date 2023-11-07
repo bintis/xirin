@@ -1,7 +1,10 @@
-up:: [[index]]
-tags:: #output/blog  
-dates:: 2022-03-04
-
+---
+notetype: Blog
+title: Blog resuscitation
+date: 03-04-2022
+tags:
+  - output/blog
+---
 After ablout 3 years， I made my decision to start writting blog  again :)
 Now am going to ：
 

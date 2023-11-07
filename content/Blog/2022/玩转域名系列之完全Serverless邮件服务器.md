@@ -1,6 +1,12 @@
-up:: [[index]]
-tags:: #output/blog  #Domain #Mailserver
-dates:: 2022-04-05
+---
+notetype: Blog
+title: 玩转域名系列之完全Serverless邮件服务器
+date: 2022-04-05
+tags:
+  - output/blog
+  - Tech/Web
+---
+
 
 买了域名又不知道除了写博客还能干什么？ 今天写一下如何利用免费的服务_并且使用Gmail_实现用自己的域名自定义的邮箱来收发邮件。而且不需要懂太多的技术，点点点即可。
 
