@@ -1,10 +1,7 @@
----
-title: Note talk笔记软件简单对比
-notetype: feed
-date: 03-04-2022
+up:: [[index]]
+tags:: #output/blog 
+dates:: 2022-03-04
 
----
-\#Chinese #NoteTalk
 
 最近萌生了重启博客的想法，另外发现GTD，PARA，OKR等理念，需要一款优秀的笔记工具将之付诸实践。
 断断续续研究笔记软件和笔记记法两周左右，对比了市面上大约有十多款笔记软件，最终决定用黑曜石，简单写下个人口味和选择过程。
