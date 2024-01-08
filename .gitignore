@@ -1,7 +1,14 @@
-# Ignore everything
-*
-
-# But not these files/directories...
-!content/
-!.gitignore
-
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+.github
+docs/
+quartz/
