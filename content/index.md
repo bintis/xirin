@@ -1,12 +1,23 @@
----
-alias: ["000", "Home"]
----
-# Xirin
 
+**Xirin**
 
-![源文件](https://github.com/bintis/xirin/assets/57840704/5918cc66-35ba-49d1-bf18-b9236cb86f87)
-
+![[xirin.png]]
 ### Blog Of Bintis
-   Welcome to my blog,Here I take down ideas and some parts in my life.
-   You can reach me by open an issuse at https://github.com/bintis/xirin.
 
+Welcome to my blog,Here I take down ideas and some parts in my life. You can reach me by open an issues at [https://github.com/bintis/xirin](https://github.com/bintis/xirin).
+
+
+# Index MOC
+
+**By year:**
+- 2024  [Folder: Blog/2024](https://blog.xirin.cc/Blog/2024/)
+- 2023  [Folder: Blog/2023](https://blog.xirin.cc/Blog/2023/)
+- 2022  [Folder: Blog/2022](https://blog.xirin.cc/Blog/2022/)
+
+**By tag:**
+- Default:
+		#output/blog 
+- Tech :
+		#Tech/Web   #Tech/Network 
+- Personal :
+		#on/Health 
