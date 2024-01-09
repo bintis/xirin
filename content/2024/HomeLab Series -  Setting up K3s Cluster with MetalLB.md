@@ -4,17 +4,18 @@ title: HomeLab Series - Setting up K3s Cluster with MetalLB
 date: 2024-01-08
 tags:
   - output/blog
-  - Tech/Network
+  - Tech/Cloud
+up: "[[Engineering MOC]]"
 ---
-Up::[[Engineering MOC]]
-Tags:: #Tech/Web 
 
-Hence I added more services into my homelab, I  need a more elegant way to manage those server and services.So,Rebuild my environment from bare VM into a k8s cluster driven one.
-I am going to post a series to explain how achieved it.
+
+	Hence I added more services into my homelab, I  need a more elegant way to manage those server and services.So,Rebuild my environment from bare VM into a k8s cluster driven one.
+	I am going to post a series to explain how achieved it.
 
 ![image](https://github.com/bintis/xirin/assets/57840704/4583fe4f-bd8b-484f-a0f7-b259fefe7736)
 
 
+Next:: [[HomeLab Series -Installing Homarr with Helm in  Cluster and Exposing it via Cloudflare]]
 
 ## **Prelude**
 

@@ -4,20 +4,24 @@ title: HomeLab Series - Install Homarr and expose it
 date: 2024-01-09
 tags:
   - output/blog
-  - Tech/Network
+  - Tech/Cloud
+up: "[[Engineering MOC]]"
 ---
-Up::[[Engineering MOC]]
-Tags:: #Tech/Web 
+
 
 ![image](https://github.com/bintis/xirin/assets/57840704/94c5f18f-1a3b-43d1-8c41-fbf481157425)
 
-In this guide, I will walk you through the process of using Helm to install Homarr as a navigation page in your cluster, and then how to expose it to the public internet through Cloudflare.
+	In this guide, I will walk you through the process of using Helm to install Homarr as a navigation page in your cluster, and then how to expose it to the public internet through Cloudflare.
 
   
-Using this method, Cloudflare automatically adds and manages the certificates, eliminating concerns about certificate renewals. This approach is more convenient compared to using Let's Encrypt.
+	Using this method, Cloudflare automatically adds and manages the certificates, eliminating concerns about certificate renewals. This approach is more convenient compared to using Let's Encrypt.
 
   
-Cloudflare also offers multiple authentication methods, enhancing security beyond what traditional firewall and local network configurations can provide. This multi-faceted approach to authentication makes it more robust and secure.
+	Cloudflare also offers multiple authentication methods, enhancing security beyond what traditional firewall and local network configurations can provide. This multi-faceted approach to authentication makes it more robust and secure.
+
+
+*previous* : [[HomeLab Series -  Setting up K3s Cluster with MetalLB]]
+*Next*: [[HomeLab Series -Installing Roon in  Cluster and Setup Back]]
 
 ### 1. **Installing Homarr via Helm**
 
