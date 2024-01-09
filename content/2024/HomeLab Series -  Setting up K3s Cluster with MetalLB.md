@@ -1,6 +1,6 @@
 ---
 notetype: Blog
-title: Setting up K3s Cluster with MetalLB
+title: HomeLab Series - Setting up K3s Cluster with MetalLB
 date: 2024-01-08
 tags:
   - output/blog
