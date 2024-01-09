@@ -9,9 +9,9 @@ Welcome to my blog,Here I take down ideas and some parts in my life.
 # Index MOC
 
 **By year:**
-- 2024  [Folder: Blog/2024](https://blog.xirin.cc/Blog/2024/)
-- 2023  [Folder: Blog/2023](https://blog.xirin.cc/Blog/2023/)
-- 2022  [Folder: Blog/2022](https://blog.xirin.cc/Blog/2022/)
+- [2024](https://blog.xirin.cc/2024/)
+- [2023](https://blog.xirin.cc/2023/)
+- [2022](https://blog.xirin.cc/2022/)
 
 By link：
 - [[About-this-blog]]
