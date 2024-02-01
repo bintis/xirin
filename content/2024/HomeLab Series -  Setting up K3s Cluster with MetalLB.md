@@ -5,7 +5,7 @@ date: 2024-01-08
 tags:
   - output/blog
   - Tech/Cloud
-up: "[[Engineering MOC]]"
+up: "[[Tech MOC]]"
 ---
   Hence I added more services into my homelab, I  need a more elegant way to manage those server and services.So,Rebuild my environment from bare VM into a k8s cluster driven one.
   

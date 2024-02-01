@@ -5,7 +5,7 @@ date: 2024-01-09
 tags:
   - output/blog
   - Tech/Cloud
-up: "[[Engineering MOC]]"
+up: "[[Tech MOC]]"
 ---
 Still writing
 

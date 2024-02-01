@@ -5,7 +5,7 @@ date: 2024-01-09
 tags:
   - output/blog
   - Tech/Cloud
-up: "[[Engineering MOC]]"
+up: "[[Tech MOC]]"
 ---
   In this guide, I will walk you through the process of using Helm to install Homarr as a navigation page in your cluster, and then how to expose it to the public internet through Cloudflare.
 
